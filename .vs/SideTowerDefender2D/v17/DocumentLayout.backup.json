@@ -3,8 +3,36 @@
   "WorkspaceRootPath": "Z:\\repos\\SideDefenderRepo\\SideTowerDefender2D\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5F45E0C0-4D4C-A3B9-D08D-E7B673C936D0}|Assembly-CSharp.csproj|z:\\repos\\sidedefenderrepo\\sidetowerdefender2d\\assets\\scripts\\characters\\charactermovment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F45E0C0-4D4C-A3B9-D08D-E7B673C936D0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\characters\\charactermovment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5F45E0C0-4D4C-A3B9-D08D-E7B673C936D0}|Assembly-CSharp.csproj|z:\\repos\\sidedefenderrepo\\sidetowerdefender2d\\assets\\scripts\\characters\\charactermovmentdeprecated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F45E0C0-4D4C-A3B9-D08D-E7B673C936D0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\characters\\charactermovmentdeprecated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F45E0C0-4D4C-A3B9-D08D-E7B673C936D0}|Assembly-CSharp.csproj|Z:\\repos\\SideDefenderRepo\\SideTowerDefender2D\\assets\\scripts\\characters\\charactercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F45E0C0-4D4C-A3B9-D08D-E7B673C936D0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\characters\\charactercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F45E0C0-4D4C-A3B9-D08D-E7B673C936D0}|Assembly-CSharp.csproj|Z:\\repos\\SideDefenderRepo\\SideTowerDefender2D\\assets\\scripts\\characters\\charactershoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F45E0C0-4D4C-A3B9-D08D-E7B673C936D0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\characters\\charactershoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F45E0C0-4D4C-A3B9-D08D-E7B673C936D0}|Assembly-CSharp.csproj|Z:\\repos\\SideDefenderRepo\\SideTowerDefender2D\\assets\\scripts\\utils\\raycastutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F45E0C0-4D4C-A3B9-D08D-E7B673C936D0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\utils\\raycastutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F45E0C0-4D4C-A3B9-D08D-E7B673C936D0}|Assembly-CSharp.csproj|Z:\\repos\\SideDefenderRepo\\SideTowerDefender2D\\assets\\scripts\\utils\\logging.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F45E0C0-4D4C-A3B9-D08D-E7B673C936D0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\utils\\logging.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F45E0C0-4D4C-A3B9-D08D-E7B673C936D0}|Assembly-CSharp.csproj|Z:\\repos\\SideDefenderRepo\\SideTowerDefender2D\\assets\\scripts\\characters\\characterweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F45E0C0-4D4C-A3B9-D08D-E7B673C936D0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\characters\\characterweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F45E0C0-4D4C-A3B9-D08D-E7B673C936D0}|Assembly-CSharp.csproj|Z:\\repos\\SideDefenderRepo\\SideTowerDefender2D\\assets\\scripts\\characters\\characterhand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F45E0C0-4D4C-A3B9-D08D-E7B673C936D0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\characters\\characterhand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F45E0C0-4D4C-A3B9-D08D-E7B673C936D0}|Assembly-CSharp.csproj|Z:\\repos\\SideDefenderRepo\\SideTowerDefender2D\\assets\\testing\\charactermovmenttesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F45E0C0-4D4C-A3B9-D08D-E7B673C936D0}|Assembly-CSharp.csproj|solutionrelative:assets\\testing\\charactermovmenttesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|Z:\\repos\\SideDefenderRepo\\SideTowerDefender2D\\Assets\\Scripts\\Game\\GameCharacterBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,19 +59,103 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CharacterMovment.cs",
-              "DocumentMoniker": "Z:\\repos\\SideDefenderRepo\\SideTowerDefender2D\\Assets\\Scripts\\Characters\\CharacterMovment.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Characters\\CharacterMovment.cs",
-              "ToolTip": "Z:\\repos\\SideDefenderRepo\\SideTowerDefender2D\\Assets\\Scripts\\Characters\\CharacterMovment.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Characters\\CharacterMovment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAswCQAAABOAAAAAAAAAA==",
+              "Title": "CharacterMovmentDeprecated.cs",
+              "DocumentMoniker": "Z:\\repos\\SideDefenderRepo\\SideTowerDefender2D\\Assets\\Scripts\\Characters\\CharacterMovmentDeprecated.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Characters\\CharacterMovmentDeprecated.cs",
+              "ToolTip": "Z:\\repos\\SideDefenderRepo\\SideTowerDefender2D\\Assets\\Scripts\\Characters\\CharacterMovmentDeprecated.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Characters\\CharacterMovmentDeprecated.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwCoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-13T18:26:46.171Z",
+              "WhenOpened": "2025-07-18T16:08:49.612Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RaycastUtils.cs",
+              "DocumentMoniker": "Z:\\repos\\SideDefenderRepo\\SideTowerDefender2D\\Assets\\Scripts\\Utils\\RaycastUtils.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Utils\\RaycastUtils.cs",
+              "ToolTip": "Z:\\repos\\SideDefenderRepo\\SideTowerDefender2D\\Assets\\Scripts\\Utils\\RaycastUtils.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Utils\\RaycastUtils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T22:33:15.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Logging.cs",
+              "DocumentMoniker": "Z:\\repos\\SideDefenderRepo\\SideTowerDefender2D\\Assets\\Scripts\\Utils\\Logging.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Utils\\Logging.cs",
+              "ToolTip": "Z:\\repos\\SideDefenderRepo\\SideTowerDefender2D\\Assets\\Scripts\\Utils\\Logging.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Utils\\Logging.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T20:38:40.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CharacterShoes.cs",
+              "DocumentMoniker": "Z:\\repos\\SideDefenderRepo\\SideTowerDefender2D\\Assets\\Scripts\\Characters\\CharacterShoes.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Characters\\CharacterShoes.cs",
+              "ToolTip": "Z:\\repos\\SideDefenderRepo\\SideTowerDefender2D\\Assets\\Scripts\\Characters\\CharacterShoes.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Characters\\CharacterShoes.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T18:54:54.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CharacterHand.cs",
+              "DocumentMoniker": "Z:\\repos\\SideDefenderRepo\\SideTowerDefender2D\\Assets\\Scripts\\Characters\\CharacterHand.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Characters\\CharacterHand.cs",
+              "ToolTip": "Z:\\repos\\SideDefenderRepo\\SideTowerDefender2D\\Assets\\Scripts\\Characters\\CharacterHand.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Characters\\CharacterHand.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T18:42:41.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CharacterWeapon.cs",
+              "DocumentMoniker": "Z:\\repos\\SideDefenderRepo\\SideTowerDefender2D\\Assets\\Scripts\\Characters\\CharacterWeapon.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Characters\\CharacterWeapon.cs",
+              "ToolTip": "Z:\\repos\\SideDefenderRepo\\SideTowerDefender2D\\Assets\\Scripts\\Characters\\CharacterWeapon.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Characters\\CharacterWeapon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T18:24:02.025Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "CharacterController.cs",
+              "DocumentMoniker": "Z:\\repos\\SideDefenderRepo\\SideTowerDefender2D\\Assets\\Scripts\\Characters\\CharacterController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Characters\\CharacterController.cs",
+              "ToolTip": "Z:\\repos\\SideDefenderRepo\\SideTowerDefender2D\\Assets\\Scripts\\Characters\\CharacterController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Characters\\CharacterController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAcwC0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T18:20:13.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CharacterMovmentTesting.cs",
+              "DocumentMoniker": "Z:\\repos\\SideDefenderRepo\\SideTowerDefender2D\\Assets\\Testing\\CharacterMovmentTesting.cs",
+              "RelativeDocumentMoniker": "Assets\\Testing\\CharacterMovmentTesting.cs",
+              "ToolTip": "Z:\\repos\\SideDefenderRepo\\SideTowerDefender2D\\Assets\\Testing\\CharacterMovmentTesting.cs",
+              "RelativeToolTip": "Assets\\Testing\\CharacterMovmentTesting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T18:36:08.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "GameCharacterBase.cs",
               "DocumentMoniker": "Z:\\repos\\SideDefenderRepo\\SideTowerDefender2D\\Assets\\Scripts\\Game\\GameCharacterBase.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\GameCharacterBase.cs",
@@ -54,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "EventStat.cs",
               "DocumentMoniker": "Z:\\repos\\SideDefenderRepo\\SideTowerDefender2D\\Assets\\Scripts\\Utils\\Stats\\EventStat.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Utils\\Stats\\EventStat.cs",
@@ -66,7 +178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "GameCharacterBase.cs",
               "DocumentMoniker": "Z:\\repos\\SideDefenderRepo\\SideTowerDefender2D\\Assets\\Scripts\\Controller\\GameCharacterBase.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Controller\\GameCharacterBase.cs",
