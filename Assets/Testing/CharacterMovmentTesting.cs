@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class CharacterMovmentTesting : MonoBehaviour
 {
-    public CharacterMovment test;
+    public CharacterMovmentDeprecated test;
     public IHorizontalMovment.Direction movmentDirection;
     public float speedMultiplier = 1;
 
